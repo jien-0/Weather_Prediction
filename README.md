@@ -9,7 +9,9 @@ Project Description: A ready-to-use prediction model, trained on historical Hong
 Data source: Hong Kong Observatory
 
 Language: Python
+
 Main script: lstm_hour_predict_weather.py
+
 Dataset: weather_hourly_20160804_20191016.csv
 
 
