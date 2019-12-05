@@ -4,7 +4,7 @@ Model: Long-Short_Term Memory
 
 Author: Lisa Mok
 
-Project Description: A ready-to-use prediction model, trained in historical Hong Kong hourly air temperature and humidity from Aug 2016 till Oct 2019, to predict the next 24 hour temperature and humidity levels.
+Project Description: A ready-to-use prediction model, trained on historical Hong Kong hourly air temperature and humidity data from Aug 2016 till Oct 2019, to predict the next 24 hour temperature and humidity levels.
 
 Data source: Hong Kong Observatory
 
